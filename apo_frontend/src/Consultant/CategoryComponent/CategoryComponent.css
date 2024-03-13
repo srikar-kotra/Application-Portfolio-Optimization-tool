@@ -1,0 +1,121 @@
+.category-component {
+    padding: 20px;
+    min-height: 77.5vh;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hiddens;
+  }
+
+  .select-category{
+    font-weight: 500;
+  }
+  
+  .parameters-col {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+  }
+  
+  .parameters-col h4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .parameters-col ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .parameters-col li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+    padding: 0%;
+  }
+  
+  .parameters-col button {
+    margin-left: 5px;
+   
+  }
+
+  .param-col-button{
+    background: linear-gradient(225deg, #007bff, #00bfa5);
+   
+  }
+
+  .param-col-button:hover{
+    background: linear-gradient(45deg, #007bff, #00bfa5);
+   
+  }
+  
+  
+  .select-category{
+    width: 50vw;
+    padding-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .parameter-row{
+
+    justify-content: space-between;
+    padding: 20px;
+    padding-left: 10vw;
+    padding-right: 10vw;
+  }
+
+  .category-option:hover{
+    background: linear-gradient(45deg, #007bff, #00bfa5);
+  }
+
+  .param-heading{
+    
+    background-image: linear-gradient(45deg, #007bff, #00bfa5);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent !important;
+    font-size: x-large;
+    align-items: center;
+    padding: 1vw;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+  }
+
+  .param-heading-enclose{
+
+    justify-content: center;
+    align-items: center;
+    border-radius: 7.5px;
+
+  }
+  .select-column{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .all-params{
+    display: flex;
+    justify-content: center;
+    
+  }
+
+  .all-params-list{
+    margin: 10px;
+    padding: 10px;
+  }
+
+  .all-params-container{
+   
+    padding-top: 50px;
+    margin-top: 50px;
+  }
+
+  .all-p-heading{
+    
+  }

@@ -1,0 +1,20 @@
+{
+  "0": {
+    "Financial & Non-financial impacts": 5,
+    "Business data criticality": 5,
+    "Frequency of Changes": 1,
+    "Application Name": "A1",
+    "Lifecycle Stage": 2,
+    "Average Monthly Change Tickets": 5,
+    "Average Monthly Incidents": 2
+  },
+  "1": {
+    "Financial & Non-financial impacts": 4,
+    "Business data criticality": 3,
+    "Frequency of Changes": 2,
+    "Application Name": "A2",
+    "Lifecycle Stage": 4,
+    "Average Monthly Change Tickets": 3,
+    "Average Monthly Incidents": 5
+  }
+}

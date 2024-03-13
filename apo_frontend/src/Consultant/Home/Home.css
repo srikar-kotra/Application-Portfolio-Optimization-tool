@@ -1,0 +1,32 @@
+nav{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1; 
+}
+  .home-bg{
+    
+    background-image: url('./APO_LOGO.jpg');
+    min-width: 100vw;
+    min-height: 80vh;
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+    position: relative;
+     /*opacity: 0.5;
+    max-width:80vw;*/
+    z-index: -10px !important;
+    overflow: hidden !important;
+  }
+  .sow-id{
+    color: whitesmoke;
+    font-size: 1.25em;
+    float:right;
+    padding: 40px;
+    background-image: linear-gradient(45deg, #007bff, #00bfa5);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent !important;
+
+  }

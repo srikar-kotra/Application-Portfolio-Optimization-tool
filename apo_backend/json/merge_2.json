@@ -1,0 +1,26 @@
+{
+  "A1": {
+    "Business Criticality": 5,
+    "Application Stability": 2,
+    "Application Complexity": null,
+    "Application Maturity": 2.6666666666666665,
+    "Interoperability": null,
+    "Technology Maturity": null,
+    "Digital and Microservices Readiness": null,
+    "Security": null,
+    "Knowledge": null,
+    "Technical Risk": null
+  },
+  "A2": {
+    "Business Criticality": 3.5,
+    "Application Stability": 5,
+    "Application Complexity": null,
+    "Application Maturity": 3,
+    "Interoperability": null,
+    "Technology Maturity": null,
+    "Digital and Microservices Readiness": null,
+    "Security": null,
+    "Knowledge": null,
+    "Technical Risk": null
+  }
+}

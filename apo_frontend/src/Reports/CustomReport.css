@@ -1,0 +1,20 @@
+.report-table{
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+}
+.report{
+    padding: 30px;
+}
+
+.pie{
+    max-height: 90vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

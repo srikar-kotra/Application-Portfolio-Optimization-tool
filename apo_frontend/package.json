@@ -1,0 +1,64 @@
+{
+  "name": "apo_frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@azure/msal-browser": "^2.38.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.0",
+    "chart.js": "^4.3.2",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "handsontable": "^13.0.0",
+    "loadash": "^1.0.0",
+    "mdb-react-ui-kit": "^6.1.0",
+    "msal": "^1.4.18",
+    "path": "^0.12.7",
+    "powerbi-client": "^2.22.3",
+    "powerbi-client-react": "^1.4.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-data-export": "^0.6.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-icons": "^4.10.1",
+    "react-router": "^6.14.2",
+    "react-router-dom": "^6.14.2",
+    "react-scripts": "5.0.1",
+    "react-xlsx-export": "^1.0.4",
+    "sweetalert2": "^11.7.18",
+    "web-vitals": "^2.1.4",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

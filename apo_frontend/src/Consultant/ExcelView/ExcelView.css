@@ -1,0 +1,81 @@
+.view-file-form{
+    width: 25vw;
+    
+}
+
+.view-file-table{
+    border-radius: 5px;
+    
+}
+.view-data-select{
+    justify-content: center;
+    min-height: 77vh;
+
+}
+
+.excel-card{
+    margin:20px;
+}
+
+.category-card{
+    margin: 10px;
+}
+
+.inference-column{
+    font-weight: 800;
+    color: linear-gradient(45deg, #007bff,#00bfa5);
+    
+}
+
+.table-display{
+    overflow-x: scroll;
+}
+
+.view-file-form{
+    
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.export-file{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 25%;
+    height: 100%;
+    border-radius: 5px;
+    background: linear-gradient(45deg, #007bff,#00bfa5);
+    color: white;
+    font-weight: bold;
+    font-size: 1.2em;
+    border: none;
+    cursor: pointer;
+    vertical-align: middle  ;
+    justify-content: center;
+}
+
+.export-container{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.header-view-file{
+    background: linear-gradient(45deg, #007bff,#00bfa5);
+}
+
+.custom-icon-color {
+    color: #007bff !important; /* Replace with the desired color */
+    
+}
+
+
+
+  /* ExcelView.css or your custom CSS file */
+.gradient-background {
+    background: linear-gradient(45deg, #007bff, #00bfa5);
+    color: white; /* Set the text color to white for better visibility */
+  }
+  

@@ -1,0 +1,18 @@
+{
+    "Business Criticality": [
+        "Financial & Non-financial impacts",
+        "Scalability",
+        "Business data criticality",
+        "Classification of data",
+        "Daily online transaction volume"
+    ],
+    "Application Maturity": [],
+    "Application Stability": [],
+    "Application Complexity": [],
+    "Interoperability": [],
+    "Technology Maturity": [],
+    "Digital and Microservices Readiness": [],
+    "Security": [],
+    "Knowledge": [],
+    "Technical Risk": []
+}
